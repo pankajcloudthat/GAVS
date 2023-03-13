@@ -11,4 +11,5 @@
 
 ## Azure Data Factory
 
-**1. [ADF Prerequisite Before HOL](ADF/ADF/ADF Prerequisite Before HOL.pdf)**
+**[ADF Lab Setup](https://github.com/pankajcloudthat/ADF/blob/0401ae960997c51d6877378a6a6b400ffdf4c683/ADF/ADF%20Prerequisite%20Before%20HOL.pdf)**
+
