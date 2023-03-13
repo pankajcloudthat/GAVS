@@ -11,4 +11,4 @@
 
 ## Azure Data Factory
 
-**1. [ADF Prerequisite Before HOL](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/01-Explore-Azure-Synapse.html)**
+**1. [ADF Prerequisite Before HOL](ADF/ADF/ADF Prerequisite Before HOL.pdf)**
