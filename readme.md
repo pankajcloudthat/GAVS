@@ -6,7 +6,7 @@
 
 &ensp;&ensp; **1. [Ingest Data Using Copy Data Tool](https://github.com/pankajcloudthat/ADF/blob/main/ADF/Lab%20Ingest%20Data%20Using%20Copy%20Data%20Tool.pdf)**
 
-&ensp;&ensp; **2. [Lab Ingest Data From HTTP Source](https://github.com/pankajcloudthat/ADF/blob/main/ADF/Lab%20Ingest%20Data%20From%20HTTP%20Source.pdf)**
+&ensp;&ensp; **2. [Ingest Data From HTTP Source](https://github.com/pankajcloudthat/ADF/blob/main/ADF/Lab%20Ingest%20Data%20From%20HTTP%20Source.pdf)**
 
 
 ## Azure Data
